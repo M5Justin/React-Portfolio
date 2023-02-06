@@ -22,6 +22,6 @@ git commit -m 'deploy'
 
 
 # if you are deploying to https://m5justin.github.io/react-portfolio
-git push -f git@github.com:M5justin/react-portfolio.git main:gh-pages
+git push -f git@github.com:m5justin/react-portfolio.git main:gh-pages
 
 cd -
