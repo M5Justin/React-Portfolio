@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './index.scss'
-import LogoS from '../../assets/images/logoM.png'
-import LogoSubtitle from '../../assets/images/logo-moran.png'
+import LogoS from '../../assets/images/Mwhite.png'
+import LogoSubtitle from '../../assets/images/MoranW.png'
 
 const Sidebar = () => (
 <div className='nav-bar'>
