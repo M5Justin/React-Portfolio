@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
+import Logo from './Logo'
 import LogoTitle from '../../assets/images/Mwhite.png'
 import './index.scss'
 
@@ -9,7 +10,7 @@ import './index.scss'
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['o', 'r', 'a', 'n']
-    const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+    const jobArray = ['J', 'a', 'v','a','S','c','r','i','p','t', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
 
     useEffect(() => {
         setTimeout(() => {
@@ -42,6 +43,10 @@ const Home = () => {
                 <h2>Frontend Developer / Javascript Enthusiast / Climber</h2>
                 <Link to='/contact' className='flat-button'>CONTACT ME</Link>
             </div>
+            <div>
+            <Logo />
+            </div>
+
         </div>
         
     <Loader type="pacman" />
