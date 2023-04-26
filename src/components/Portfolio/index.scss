@@ -19,11 +19,27 @@
     flex-wrap: wrap;
     padding-bottom: 100px;
     justify-content: center;
-    margin-left: 275px;
+    margin-left: 175px;
     margin-top: 150px;
     text-decoration-color: aliceblue;
 
     &:hover:after {
         color: #ffd700;
     }
+
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid #ffd700;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #ffd700;
+    color: white;
+  }
 }
