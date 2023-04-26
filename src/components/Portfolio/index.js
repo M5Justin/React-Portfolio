@@ -20,10 +20,14 @@ const Portfolio = () => {
                 <p className='projects'>
                     <a href='https://drive.google.com/file/d/1bYoZviT01I9gfUlwOdz8LybGyYXEVzf-/view'>E-Commerce Backend</a>
                     <a href='https://stormy-tundra-00611.herokuapp.com/'>Pet Social App</a>
-                    <a href='https://radiant-beyond-07014.herokuapp.com/'>Notetaker</a>
+                    <a href='https://radiant-beyond-07014.herokuapp.com/'>Notetaker App</a>
                     <a href='https://drive.google.com/file/d/16K-d_YVVokVLZkVBqR9gDg9t6at3JXfF/view'>Team Profile Generator</a>
                     <a href='https://github.com/M5Justin/React-Portfolio'>React Portfolio</a>
+                    <a href='https://github.com/M5Justin/Work-Day-Scheduler'>Work Day Scheduler</a>
+                    <a href='https://m5justin.github.io/Password-generator/'>Password Generator</a>
                     <a href='https://salty-lake-85504.herokuapp.com/'>Credit Card Processing</a>
+                    <a href='https://m5justin.github.io/CSS-Cheatsheet/'>Css Study Guide</a>
+                    <a href='https://drive.google.com/file/d/1kMW5GN8v2O8EHOJHnnBwokgWx3cyFFO9/view'>Social Network</a>
                 </p>
 
             </div>
