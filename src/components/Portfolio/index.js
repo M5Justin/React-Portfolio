@@ -19,11 +19,11 @@ const Portfolio = () => {
                 </h1>
                 <p className='projects'>
                     <a href='https://drive.google.com/file/d/1bYoZviT01I9gfUlwOdz8LybGyYXEVzf-/view'>E-Commerce Backend</a>
-                    <a href='https://salty-lake-85504.herokuapp.com/'>Credit Card Processing</a>
                     <a href='https://stormy-tundra-00611.herokuapp.com/'>Pet Social App</a>
                     <a href='https://radiant-beyond-07014.herokuapp.com/'>Notetaker</a>
                     <a href='https://drive.google.com/file/d/16K-d_YVVokVLZkVBqR9gDg9t6at3JXfF/view'>Team Profile Generator</a>
                     <a href='https://github.com/M5Justin/React-Portfolio'>React Portfolio</a>
+                    <a href='https://salty-lake-85504.herokuapp.com/'>Credit Card Processing</a>
                 </p>
 
             </div>
