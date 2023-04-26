@@ -6,7 +6,8 @@
 
 .top-tags{
     bottom: auto;
-    top: 35px;
+    top: 50px;
+    margin-top: 150px;
 }
 
 .tags {
@@ -40,7 +41,8 @@
   }
 
   .about-page,
-  .contact-page {
+  .contact-page,
+  .portfolio-page {
     .text-zone {
         position: absolute;
         left: 10%;
