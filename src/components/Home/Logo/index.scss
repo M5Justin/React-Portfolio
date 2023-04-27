@@ -10,18 +10,22 @@
   left: auto;
   margin: auto;
   
+  
 
   svg {
     width: 500%;
     height: 200px;
     bottom: 0;
     transform: rotateZ(30deg) !important;
+    
   }
 
   img {
     height: 100%;
     width: 80%;
     margin-left: 50px;
+    border-radius: 20%;
+    
     
 
     
